@@ -15,14 +15,17 @@ Implementing business logic and processing user inputs.
 Interacting with external APIs or databases if required.
 
 **Dialogflow Integration:**
+
 Dialogflow is used for:
 Natural Language Understanding (NLU): Understanding user intents, entities, and context.
 Conversation Management: Managing the flow of conversation and responses.
 
 **Customization:** 
+
 This project provides a framework for customizing and extending the chatbot's functionality according to specific requirements.
 
 **Prerequisites**
+
 Before running the project, ensure you have the following installed:
 Python (version >= 3.6)
 Dialogflow SDK or API credentials.
