@@ -31,6 +31,7 @@ Python (version >= 3.6)
 Dialogflow SDK or API credentials.
 
 **Acknowledgements**
+
 Dialogflow for providing a powerful platform for building conversational interfaces.
 Python community for creating an extensive ecosystem of libraries and frameworks.
 Contributors to this project.
